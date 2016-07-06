@@ -1,0 +1,2 @@
+# conf
+Configuraciónes varias
