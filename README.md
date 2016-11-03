@@ -1,2 +1,2 @@
 # conf
-Configuraciónes varias
+Configuraciónes varias de mi día a día
